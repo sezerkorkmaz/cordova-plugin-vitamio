@@ -1,7 +1,5 @@
 # Cordova Vitamio plugin 
 
-for Android, by [Nicholas Hutchind](https://github.com/nchutchind)
-
 ## 1. Description
 
 This plugin allows you to stream audio and video in a fullscreen, native player using Vitamio software decoding on Android.
@@ -88,3 +86,6 @@ There are no video-only options.
   * fit - (default) fits the image on the screen, enlarging it while respecting the image aspect ratio
   * stretch - stretches the image so it fills all available screen space, disregarding the image aspect ratio
   * center - centers the image on the screen, keeping it at the original image size
+  
+ ## Forked From
+[Nicholas Hutchind](https://github.com/nchutchind)
