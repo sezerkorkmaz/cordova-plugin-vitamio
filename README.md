@@ -51,6 +51,10 @@ cordova plugin add com.hutchind.cordova.plugins.vitamio
 
   // Play an audio file with options (all options optional)
   var options = {
+    x : 0,
+    y: 40,
+    w : 500,
+    h : 500,
     isStreaming: true,
     bgColor: "#FFFFFF",
     bgImage: "<SWEET_BACKGROUND_IMAGE>",
