@@ -1,11 +1,6 @@
 # Cordova Vitamio plugin 
 
-## Note: Google has been rejecting apps that include Vitamio versions < 5.0 for security vulnerabilities and rejecting apps that include Vitamio 5.0 for OpenSSL vulnerabilities. At this time, it seems like Vitamio is not a viable solution for Android.
-
 for Android, by [Nicholas Hutchind](https://github.com/nchutchind)
-
-1. [Description](https://github.com/nchutchind/Vitamio-Cordova-Plugin#1-description)
-2. [Usage](https://github.com/nchutchind/Vitamio-Cordova-Plugin#2-usage)
 
 ## 1. Description
 
